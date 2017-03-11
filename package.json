@@ -1,0 +1,25 @@
+{
+  "name": "asdasd",
+  "version": "1.0.0",
+  "description": "i dont know",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vietanhtvt/chatboxtvt.git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "Vietanhtvt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vietanhtvt/chatboxtvt/issues"
+  },
+  "homepage": "https://github.com/vietanhtvt/chatboxtvt#readme",
+  "dependencies": {
+    "facebook-chat-api": "^1.3.0"
+  }
+}
